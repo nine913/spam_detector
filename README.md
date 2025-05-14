@@ -3,7 +3,7 @@
 Classification project to detect spam messages using the Naive Bayes algorithm.
 
 ## How to run the project:
-
+- acess here: https://spamdetector-sbpb5trqdmxysyeum8m9ev.streamlit.app/
 
 ## Results and analysis:
 - Using the metrics of precision, f1 score, recall and accuracy, I realized that the best model was **Naive Bayes.**
